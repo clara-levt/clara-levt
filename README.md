@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @clara-levt
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning NLP for text-to-sql
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...Please don't!
